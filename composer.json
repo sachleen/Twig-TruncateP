@@ -9,8 +9,8 @@
     "authors": [
         {
             "name": "Sachleen Sandhu",
-            "email": "sachleen.sandhu@gmail.com"
-            "homepage": "http://sachleen.com",
+            "email": "sachleen.sandhu@gmail.com",
+            "homepage": "http://sachleen.com"
         }
     ],
     "autoload": {
