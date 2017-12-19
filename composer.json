@@ -1,0 +1,21 @@
+{
+    "name": "sachleen/twig-truncatep",
+    "description": "A Twig Extension filter to truncate html by number of p tags",
+    "require-dev": {
+        "php": ">=5.5.9",
+        "twig/twig": "~2.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sachleen Sandhu",
+            "email": "sachleen.sandhu@gmail.com"
+            "homepage": "http://sachleen.com",
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Sachleen\\Twig\\": "src/"
+        }
+    }
+}
