@@ -1,8 +1,7 @@
 {
     "name": "sachleen/twig-truncatep",
     "description": "A Twig Extension filter to truncate html by number of p tags",
-    "require-dev": {
-        "php": ">=5.5.9",
+    "require": {
         "twig/twig": "~2.0"
     },
     "license": "MIT",
