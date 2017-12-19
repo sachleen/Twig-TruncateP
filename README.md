@@ -1,5 +1,5 @@
 # Twig-TruncateP
-Truncates a HTML by number of <p> tags
+Truncates a HTML by number of `<p>` tags. This is useful for showing summaries of blog posts where normal truncate functions will not preserve HTML syntax. Since blocks of text should be within paragraph tags, there are no issues of missing HTML tags or HTML tags counting against the letter or word count of the truncated string. Simply specify how many `<p>` tags you would like to see and that's what you'll get.
 
 ## Install
 With composer
